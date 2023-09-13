@@ -1,4 +1,4 @@
-//ポインタと参照
+//ポインタと参照 1
 #include <iostream>
 using namespace std;
 
