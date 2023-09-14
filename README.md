@@ -2,34 +2,32 @@
 
 ## 目次
 
-- [f_00.cpp](/hello_world/f_00.cpp)
+- hello_world
 
-- [f_01.cpp](/values_consts/f_01.cpp)
+  - [f_00.cpp](/hello_world/f_00.cpp)
 
-- [f_02.cpp](/values_consts/f_02.cpp)
+- 変数と定数
 
-- [f_03.cpp](/pointers_references/f_03.cpp)
+  - [f_01.cpp](/values_consts/f_01.cpp)
 
-- [f_04.cpp](/pointers_references/f_04.cpp)
+  - [f_02.cpp](/values_consts/f_02.cpp)
+
+- ポインタと参照
+
+  - [f_03.cpp](/pointers_references/f_03.cpp)
+
+  - [f_04.cpp](/pointers_references/f_04.cpp)
 
 ## ノート
 
-### f_00.cpp
+### hello_world
 
-  hello world
+  最初のファイル
 
-### f_01.cpp
+### 変数と定数
 
-  定数と変数
+  変数の宣言、代入
 
-### f_02.cpp
+### ポインタと参照
 
-  明示的な整数のサイズ表示
-
-### f_03.cpp
-
-  ポインタと参照 1
-
-### f_04.cpp
-
-  ポインタと参照 2
+  ポインタと参照の勉強
