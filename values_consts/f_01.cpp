@@ -1,14 +1,17 @@
-//定数、変数
+// 定数、変数
+
+// compile
+//  g++ values_consts\f_01.cpp -o exe_files\f_01.exe
 
 /**
  * @file f_01.cpp
  * @author tom0427 (tom.ipynb@gmail.com)
- * @brief 
+ * @brief
  * @version 0.1
  * @date 2023-09-13
- * 
+ *
  * @copyright Copyright (c) 2023
- * 
+ *
  */
 
 #include <iostream>

@@ -1,6 +1,9 @@
 // ポインタと参照 2
 // 関数もポインタを持つ
 
+// compile
+// g++ f_05.cpp -o f_05.exe
+
 #include <iostream>
 using namespace std;
 

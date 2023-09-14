@@ -1,5 +1,7 @@
-//hello world
-#include <iostream>
+// hello world
+
+//compile
+// g++ hello_world\f_00.cpp -o exe_files\f_00.exe
 
 /**
  * @file f_00.cpp
@@ -12,6 +14,8 @@
  *
  */
 
+
+#include <iostream>
 int main(){//main関数は必ずintを返却しなければならない
     std::cout<<"hello world"<<std::endl;
     return 0;

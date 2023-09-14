@@ -1,6 +1,9 @@
 // ポインタと参照 2
 //関数もポインタを持つ
 
+//compile
+// g++ pointers_references\f_04.cpp -o exe_files\f_04.exe
+
 #include <iostream>
 using namespace std;
 

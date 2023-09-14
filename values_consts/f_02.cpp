@@ -1,5 +1,8 @@
 //明示的なデータサイズ
 
+// compile
+// g++ values_consts\f_02.cpp -o exe_files\f_02.exe
+
 /**
  * @file f_02.cpp
  * @author tom0427 (tom.ipynb@gmail.com)

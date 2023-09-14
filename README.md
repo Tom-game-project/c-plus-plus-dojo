@@ -4,19 +4,19 @@
 
 - hello_world
 
-  - [f_00.cpp](/hello_world/f_00.cpp)
+  - [hello world](/hello_world/f_00.cpp)
 
 - 変数と定数
 
-  - [f_01.cpp](/values_consts/f_01.cpp)
+  - [normal](/values_consts/f_01.cpp)
 
-  - [f_02.cpp](/values_consts/f_02.cpp)
+  - [std](/values_consts/f_02.cpp)
 
 - ポインタと参照
 
-  - [f_03.cpp](/pointers_references/f_03.cpp)
+  - [data](/pointers_references/f_03.cpp)
 
-  - [f_04.cpp](/pointers_references/f_04.cpp)
+  - [code](/pointers_references/f_04.cpp)
 
 ## ノート
 

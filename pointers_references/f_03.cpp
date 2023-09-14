@@ -1,4 +1,8 @@
 //ポインタと参照 1
+
+// compile
+// g++ pointers_references\f_03.cpp -o exe_files\f_03.exe
+
 #include <iostream>
 using namespace std;
 
